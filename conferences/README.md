@@ -11,6 +11,7 @@
 ## Local conferences
 
 * [C++ Russia](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/by_name/cpprussia.md)
+* [Italian C++ Conference & C++ Day](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/by_name/italiancpp.md)
 
 ## Other conferences
 
