@@ -10,6 +10,7 @@
 
 ## Local conferences
 
+* [C++ Russia](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/by_name/cpprussia.md)
 
 ## Other conferences
 
