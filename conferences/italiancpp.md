@@ -1,12 +1,17 @@
-# Italian C++ Conference && C++ Day
+# Italian C++ Conference
 
 | Name | Year | Conference<br>Date | Location | Schedule | Talk Videos | Lightning<br>Talk Videos | Slides | Video Channel |
 |---|---|---|---|---|---|---|---|---|
 | [Italian C++ Conference](https://www.italiancpp.org/) | 2021 | June 19 | Online | [Schedule](https://italiancpp.org/itcppcon21) | [Italian C++ Conference 2021](https://www.youtube.com/playlist?list=PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki) | | [Slides](https://github.com/italiancpp/itcppcon21) | [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw) |
-| [C++ Day](https://www.italiancpp.org/) | 2020 | November 28 | Online | [Schedule](https://www.italiancpp.org/event/cppday20/) | [C++ Day 2020](https://www.youtube.com/playlist?list=PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS) | | [Slides](https://github.com/italiancpp/cppday20) | [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw/featured) |
 | [Italian C++ Conference](https://www.italiancpp.org/) | 2020 | June 13 | Online | [Schedule](https://www.italiancpp.org/event/itcppcon20/) | [Italian C++ Conference 2020](https://www.youtube.com/playlist?list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB) | | [Slides](https://github.com/italiancpp/itcppcon20) | [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw/featured) |
-| [C++ Day](https://www.italiancpp.org/event/cppday19/) | 2019 | November 30 | Parma, Italy | [Schedule](https://www.italiancpp.org/event/cppday19/) | | | [Slides](https://github.com/italiancpp/cppday19/) | |
 | [Italian C++ Conference](https://www.italiancpp.org/) | 2019 | June 15 | Milan, Italy | [Schedule](https://www.italiancpp.org/event/itcppcon19/) | [Italian C++ 2019](https://www.youtube.com/playlist?list=PLsCm1Hs016LU5PDVL3Hxgtuim_IIN4ajw) | | [Slides](https://github.com/italiancpp/itcppcon19) | [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw/featured) |
 | [Italian C++ Conference](https://www.italiancpp.org/event/itcppcon18/) | 2018 | June 23 | Milan, Italy | [Schedule](https://www.italiancpp.org/event/itcppcon18/) | [Italian C++ Conference 2018](https://www.youtube.com/playlist?list=PLsCm1Hs016LW0zKJBvemhJ0YWIF1Fezd6) | | [Slides](https://github.com/italiancpp/itcppcon18) | [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw/featured) |
 | [Italian C++ Conference](https://www.italiancpp.org/2017/07/04/itcppcon17/) | 2017 | June 17 | Milan, Italy | [Schedule](https://www.italiancpp.org/2017/07/04/itcppcon17/) | [Italian C++ Conference 2017](https://www.youtube.com/playlist?list=PLsCm1Hs016LWoGAOd9wKvdb1fEqj2olBz) | | [Slides](https://github.com/italiancpp/itcppcon17) | [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw/featured) |
 | [Italian C++ Conference](https://www.italiancpp.org/event/conference-2016/) | 2016 | May 14 | Milan, Italy | [Schedule](https://www.italiancpp.org/event/conference-2016/) | [Italian C++ Conference 2016](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw/search?query=%22Italian+C%2B%2B+Conference+2016%22) | | [Slides](http://www.italiancpp.org/eventi/sessioni-conference-2016/#resumable) | [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw/featured) |
+
+# C++ Day
+
+| Name | Year | Conference<br>Date | Location | Schedule | Talk Videos | Lightning<br>Talk Videos | Slides | Video Channel |
+|---|---|---|---|---|---|---|---|---|
+| [C++ Day](https://www.italiancpp.org/) | 2020 | November 28 | Online | [Schedule](https://www.italiancpp.org/event/cppday20/) | [C++ Day 2020](https://www.youtube.com/playlist?list=PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS) | | [Slides](https://github.com/italiancpp/cppday20) | [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw/featured) |
+| [C++ Day](https://www.italiancpp.org/event/cppday19/) | 2019 | November 30 | Parma, Italy | [Schedule](https://www.italiancpp.org/event/cppday19/) | | | [Slides](https://github.com/italiancpp/cppday19/) | |
