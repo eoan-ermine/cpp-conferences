@@ -8,7 +8,7 @@
 * [Meeting C++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/meetingcpp.md)
 * [code::dive](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/codedive.md)
 
-## Local conferences
+## Regional conferences
 
 * [C++ Russia](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cpprussia.md)
 * [Italian C++ Conference & C++ Day](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/italiancpp.md)
