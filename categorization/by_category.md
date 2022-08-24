@@ -8,6 +8,7 @@
 * [Meeting C++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/meetingcpp.md)
 * [code::dive](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/codedive.md)
 * [C++ on Sea](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cpponsea.md)
+* [C++ Corehard](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppcorehard.md)
 
 ## Regional conferences
 
