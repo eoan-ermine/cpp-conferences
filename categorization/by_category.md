@@ -15,6 +15,7 @@
 * [Italian C++ Conference & C++ Day](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/italiancpp.md)
 * [C++ North](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppnorth.md)
 * [Pacific++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/pacificpp.md)
+* [C++ Europe](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppeurope.md)
 
 ## Other conferences
 
