@@ -29,3 +29,4 @@
 ## Other conferences
 
 * [LLVM](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/llvm.md)
+* [Qt World Summit & Qt Developer Days](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/qtworldsummit.md)
