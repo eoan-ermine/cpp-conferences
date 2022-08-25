@@ -21,6 +21,7 @@
 * [C++ Europe](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppeurope.md)
 * [CppIndiaCon](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppindiacon.md), [CppIndia Community Tech-Talks](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppindiacommunitytechtalks.md)
 * [ADC++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/adcpp.md)
+* [CPP-Summit](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppsummit.md)
 
 ## Other conferences
 
