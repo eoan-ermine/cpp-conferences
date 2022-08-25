@@ -1,5 +1,7 @@
 # Conferences by country
 
+Online conferences: [Pure Virtual C++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/purevirtualcpp.md)
+
 ## Asia
 
 | Country | Israel | India | China |

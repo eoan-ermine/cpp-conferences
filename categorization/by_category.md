@@ -13,6 +13,7 @@
 * [CPPP](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppp.md)
 * [emBO++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/embopp.md)
 * [NDC TechTown](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/ndctechtown.md)
+* [Pure Virtual C++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/purevirtualcpp.md)
 
 ## Regional conferences
 
