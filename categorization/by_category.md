@@ -10,6 +10,7 @@
 * [C++ on Sea](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cpponsea.md)
 * [C++ Corehard](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppcorehard.md)
 * [Core C++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/corecpp.md)
+* [CPPP](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppp.md)
 
 ## Regional conferences
 
