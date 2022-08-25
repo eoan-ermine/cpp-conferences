@@ -18,6 +18,7 @@
 ## Regional conferences
 
 * [C++ Russia & C++ Siberia](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cpprussia.md)
+* [C++ Zero Cost](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppzerocost.md)
 * [Italian C++ Conference & C++ Day](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/italiancpp.md)
 * [C++ North](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppnorth.md)
 * [Pacific++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/pacificpp.md)
