@@ -4,7 +4,7 @@
 
 | Country | Israel | India |
 | --- | --- | --- |
-| Conferences | [Core C++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/corecpp.md) | [CppIndiaCon](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppindiacon.md) |
+| Conferences | [Core C++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/corecpp.md) | [CppIndiaCon](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppindiacon.md), [CppIndia Community Tech-Talks](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppindiacommunitytechtalks.md) |
 
 
 ## North America
