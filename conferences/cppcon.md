@@ -2,6 +2,7 @@
 
 | Name | Year | Date | Location | Schedule | Talk Videos | Lightning Talk Videos  | Slides | Video Channel |
 |---|---|---|---|---|---|---|---|---|
+| CppCon | 2022 | September 11-16 | Online & Aurora, Colorado, USA | [Schedule](https://cppcon.digital-medium.co.uk/schedule) | | | | [YouTube](https://www.youtube.com/user/CppCon/) |
 | CppCon | 2021 | October 24-29 | Online & Aurora, Colorado | [Schedule](https://cppcon.org/program2021/) | [CppCon 2021](https://www.youtube.com/watch?v=pfIC-kle4b0&list=PLHTh1InhhwT6bY4nS4p7f5b_754myC3ze) | | | [YouTube](https://www.youtube.com/user/CppCon/) |
 | CppCon | 2020 | September 13-18 | Online | [Schedule](https://cppcon.org/program2020/) | [CppCon 2020](https://www.youtube.com/user/CppCon/playlists?view=50&sort=dd&shelf_id=4) | [CppCon 2020](https://www.youtube.com/playlist?list=PLHTh1InhhwT7bZ9bfG3pIR6VVjXLrrUoP) | [Slides](https://github.com/CppCon/CppCon2020) | [YouTube](https://www.youtube.com/user/CppCon/) |
 | CppCon | 2019 | September 15-20 | Aurora, Colorado, USA | [Schedule](https://cppcon.org/cppcon-2019-program/) | [CppCon 2019](https://www.youtube.com/playlist?list=PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw) | [CppCon 2019](https://www.youtube.com/user/CppCon/) | [Slides](https://github.com/CppCon/CppCon2019) | [YouTube](https://www.youtube.com/user/CppCon/) |
