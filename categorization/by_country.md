@@ -2,9 +2,9 @@
 
 ## Asia
 
-| Country | Israel |
-| --- | --- |
-| Conferences | [Core C++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/corecpp.md) |
+| Country | Israel | India |
+| --- | --- | --- |
+| Conferences | [Core C++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/corecpp.md) | [CppIndiaCon](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppindiacon.md) |
 
 
 ## North America
