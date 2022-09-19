@@ -7,6 +7,12 @@
 | [C++Russia](https://cppconf-moscow.ru/en/) | 2020 | July 14-15 | Online | [Schedule](https://cppconf-moscow.ru/en/2020/msk/schedule/) | [C++Russia 2020](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC) | | | [YouTube](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) |
 | [C++Russia](https://cppconf-piter.ru/) | 2019 | October 31 - November 1 | St. Petersburg, Russia | [Schedule](https://cppconf-piter.ru/en/schedule/) | [C++Russia 2019](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2) | | | [YouTube](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) |
 | [C++ Russia](https://cppconf.ru/en/) | 2019 | April 19-20 | Moscow, Russia | [Schedule](https://cppconf.ru/en/#schedule) | [C++Russia 2019](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2) | | | [YouTube](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) |
+| [C++ Russia](https://2018.cppconf-piter.ru) | 2018 | April 19-21 | St. Petersburg, Russia | [Schedule](https://2018.cppconf-piter.ru/index.html#schedule) | [C++Russia 2018](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoFa2q0NqD6metQxavT2JYP) | | | [YouTube](https://www.youtube.com/c/CUserGroupRussia) |
+| C++ Russia | 2017 | | Russia | | [C++Russia 2017](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz) | | | [YouTube](https://www.youtube.com/c/CUserGroupRussia) |
+| C++ Russia | 2016 | | Russia | | [C++Russia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d) | | | [YouTube](https://www.youtube.com/c/CUserGroupRussia) |
+| C++ Russia | 2015 | | Russia | | [C++Russia 2015](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZq3nObp2P8BJvsCc639tYSd) | | | [YouTube](https://www.youtube.com/c/CUserGroupRussia) |
+
+
 
 # C++ Siberia
 
