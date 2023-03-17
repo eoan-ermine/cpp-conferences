@@ -26,6 +26,11 @@ Online conferences: [Pure Virtual C++](https://github.com/PatriotRossii/cpp-conf
 | --- | --- | --- | --- | --- | --- |
 | Conferences | [CPPP](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppp.md) | [C++ Russia & C++ Siberia](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cpprussia.md), [C++ Zero Cost](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppzerocost.md) | [Italian C++ Conference, C++ Day](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/italiancpp.md) | [C++ Europe](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppeurope.md) | [NDC TechTown](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/ndctechtown.md) |
 
+| Country | Spain |
+| --- | --- |
+| Conferences | [using std::cpp](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/usingstdcpp.md) |
+
+
 
 ## Oceania
 

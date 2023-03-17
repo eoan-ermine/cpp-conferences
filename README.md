@@ -28,6 +28,11 @@ Online conferences: [Pure Virtual C++](https://github.com/PatriotRossii/cpp-conf
 | --- | --- | --- | --- | --- | --- |
 | Conferences | [CPPP](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppp.md) | [C++ Russia & C++ Siberia](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cpprussia.md), [C++ Zero Cost](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppzerocost.md) | [Italian C++ Conference, C++ Day](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/italiancpp.md) | [C++ Europe](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppeurope.md) | [NDC TechTown](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/ndctechtown.md) |
 
+| Country | Spain |
+| --- | --- |
+| Conferences | [using std::cpp](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/usingstdcpp.md) |
+
+
 
 ## Oceania
 
@@ -49,7 +54,7 @@ Online conferences: [Pure Virtual C++](https://github.com/PatriotRossii/cpp-conf
 | | | | | |
 |-|-|-|-|-|
 | [C++ Russia & C++ Siberia](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cpprussia.md) | [C++ Zero Cost](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppzerocost.md) | [Italian C++ Conference & C++ Day](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/italiancpp.md) | [C++ North](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppnorth.md) | [Pacific++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/pacificpp.md) | 
-| [C++ Europe](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppeurope.md) | [CppIndiaCon](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppindiacon.md), [CppIndia Community Tech-Talks](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppindiacommunitytechtalks.md) | [ADC++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/adcpp.md) | [CPP-Summit](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppsummit.md)
+| [C++ Europe](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppeurope.md) | [CppIndiaCon](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppindiacon.md), [CppIndia Community Tech-Talks](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppindiacommunitytechtalks.md) | [ADC++](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/adcpp.md) | [CPP-Summit](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/cppsummit.md) | [using std::cpp](https://github.com/PatriotRossii/cpp-conferences/blob/master/conferences/usingstdcpp.md) |
 
 ## Other conferences
 
