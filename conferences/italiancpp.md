@@ -2,6 +2,7 @@
 
 | Name | Year | Conference<br>Date | Location | Schedule | Talk Videos | Lightning<br>Talk Videos | Slides | Video Channel |
 |---|---|---|---|---|---|---|---|---|
+| [Italian C++ Conference](https://italiancpp.org/itcppcon23) | 2023 | June 10 | Rome, Italy | --- | --- | --- | --- | [YouTube](https://www.youtube.com/c/ItalianCppCommunity) |
 | [Italian C++ Conference](https://italiancpp.github.io/) | 2021 | June 19 | Online | [Schedule](https://italiancpp.github.io/) | [Italian C++ Conference 2021](https://www.youtube.com/playlist?list=PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki) | | [Slides](https://github.com/italiancpp/itcppcon21) | [YouTube](https://www.youtube.com/c/ItalianCppCommunity) |
 | [Italian C++ Conference](https://italiancpp.org/eventi/2020-06-13-itcppcon20/) | 2020 | June 13 | Online | [Schedule](https://italiancpp.org/eventi/2020-06-13-itcppcon20/#agenda) | [Italian C++ Conference 2020](https://www.youtube.com/playlist?list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB) | | [Slides](https://github.com/italiancpp/itcppcon20) | [YouTube](https://www.youtube.com/c/ItalianCppCommunity) |
 | [Italian C++ Conference](https://italiancpp.org/eventi/2019-06-15-itcppcon19/) | 2019 | June 15 | Milan, Italy | [Schedule](https://italiancpp.org/eventi/2019-06-15-itcppcon19/#agenda) | [Italian C++ Conference 2019](https://www.youtube.com/playlist?list=PLsCm1Hs016LU5PDVL3Hxgtuim_IIN4ajw) | | [Slides](https://github.com/italiancpp/itcppcon19) | [YouTube](https://www.youtube.com/c/ItalianCppCommunity) |
