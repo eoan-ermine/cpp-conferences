@@ -2,6 +2,7 @@
 
 | Name | Year | Conference<br>Date | Location | Schedule | Talk Videos | Lightning<br>Talk Videos | Slides | Video Channel |
 |---|---|---|---|---|---|---|---|---|
+| [Meeting C++](https://meetingcpp.com/2023/) | 2023 | November 12-14 | Online & Berlin, Germany | [Schedule](https://meetingcpp.com/2023/Schedule.html) | [Meeting C++ 2023](https://www.youtube.com/playlist?list=PLRyNF2Y6sca0KMWJXADniEDufnFdIJz7l) | | [Slides](https://meetingcpp.com/mcpp/slides/?year=2023) | [YouTube](https://www.youtube.com/user/MeetingCPP/) |
 | [Meeting C++](https://meetingcpp.com/2022/) | 2022 | November 17-19 | Online & Berlin, Germany | [Schedule](https://meetingcpp.com/2022/Talks/) | [Meeting C++ 2022](https://www.youtube.com/playlist?list=PLRyNF2Y6sca26zZjdpWS-NmRiKkJEOBFl) | | [Slides](https://meetingcpp.com/mcpp/slides/?year=2022) | [YouTube](https://www.youtube.com/user/MeetingCPP/) |
 | [Meeting C++](https://meetingcpp.com/2021/) | 2021 | November 10-12 | Online | [Schedule](https://meetingcpp.com/2021/Talks/) | [Meeting C++ 2021](https://www.youtube.com/playlist?list=PLRyNF2Y6sca1IY8wvpIQ8t2gQ49ncgwkr) | | [Slides](https://meetingcpp.com/mcpp/slides/?year=2021) | [YouTube](https://www.youtube.com/user/MeetingCPP/) |
 | [Meeting C++](https://meetingcpp.com/) | 2020 | November 12-14 | Berlin, Germany | [Schedule](https://meetingcpp.com/2020/Schedule.html) | [Meeting C++ 2020](https://www.youtube.com/playlist?list=PLRyNF2Y6sca0hXu0FG-5SP3lTI-g7srMW) | | [Slides](https://meetingcpp.com/mcpp/slides/?year=2020) | [YouTube](https://www.youtube.com/user/MeetingCPP/) |
