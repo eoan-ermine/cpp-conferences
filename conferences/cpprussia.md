@@ -2,7 +2,7 @@
 
 | Name | Year | Conference<br>Date | Location | Schedule | Talk Videos | Lightning<br>Talk Videos | Slides | Video Channel |
 |---|---|---|---|---|---|---|---|---|
-| [C++ Russia](https://cppconf.ru/) | 2023 | May 11-12, May 23-24 | Online; Moscow, Russia | [Schedule](https://cppconf.ru/talks/) | | | | [YouTube](https://www.youtube.com/c/CUserGroupRussia) |
+| [C++ Russia](https://cppconf.ru/) | 2023 | May 11-12, May 23-24 | Online; Moscow, Russia | [Schedule](https://cppconf.ru/talks/) | [C++ Russia 2023](https://youtube.com/playlist?list=PLZN9ZGiWZoZqrKqBSlz-qGb4AxduDe34-&si=--9wiKedx_vr2qGv) | | [Slides](https://cppconf.ru/archive/2023/schedule/days/) | [YouTube](https://www.youtube.com/c/CUserGroupRussia) |
 | [C++ Russia](https://cppconf.ru/en/archive/2022/) | 2022 | June 6-8; June 26 | Online; St. Petersburg, Russia | [Schedule](https://cppconf.ru/en/archive/2022/) | [C++ Russia 2022](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh) | | | [YouTube](https://www.youtube.com/c/CUserGroupRussia) |
 | [C++ Russia](https://cppconf.ru/en/archive/2021/) | 2021 | November 15-18 | Online | [Schedule](https://cppconf.ru/en/archive/2021/) | [C++ Russia 2021](https://www.youtube.com/playlist?app=desktop&list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy) | | | [YouTube](https://www.youtube.com/c/CUserGroupRussia) |
 | [C++Russia](https://cppconf.ru/en/archive/2020%20Piter/) | 2020 | November 11-14 | St. Petersburg, Russia | [Schedule](https://cppconf.ru/en/archive/2020%20Piter/) | [C++Russia 2020](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC) | | | [YouTube](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) |
